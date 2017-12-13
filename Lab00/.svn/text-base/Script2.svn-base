@@ -1,0 +1,16 @@
+#! /bin/bash
+
+Integer1=$1
+
+for (( I=$Integer1; I >= 0; I-- ))
+do
+
+
+echo  ${I}
+
+
+done
+
+
+exit 0
+

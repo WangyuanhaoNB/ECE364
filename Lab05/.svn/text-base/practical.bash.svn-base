@@ -1,0 +1,103 @@
+#! /bin/bash
+
+#----------------------------------
+# $Author$
+# $Date$
+#----------------------------------
+
+function part_a 
+{               
+    
+    # Fill out your answer here.
+	Arr=(a.txt b.txt c.txt d.txt)
+	((sel=$RANDOM%4))
+	head -n -2 ${Arr[sel]} | tail -n 3
+    return                      
+}                               
+
+function part_b
+{              
+    	output=($(ls -ld $1))
+	output2=${output[0]}
+	filename=$1
+
+if [[ $(echo $output2 | cut -c 1) = '-' ]]
+then
+	echo "${filename} is a file name"
+elif [[ $(echo $output2 | cut -c 1) = 'd' ]]
+then
+	echo "${filename} is a directory name"
+else
+	echo "${filename} is not a file or directory name"
+fi
+    return                     
+}                              
+
+function part_c
+{
+    # Fill out your answer here
+    return
+}
+
+function part_d
+{
+    # Fill out your answer here
+	test=$(wc -w temp.txt)
+	test2=$(wc -l temp.txt)
+	echo "temp.txt has ${test} words and ${test2} lines"
+    return
+}
+
+function part_e
+{
+    # Fill out your answer here
+    return
+}
+
+function part_f
+{
+    # Fill out your answer here
+	tail -n +2 people.csv | sort -t"," -k4,4 -k6,6 -k1,1 -k2,2 | tail -n 10
+    return
+}
+
+function part_g
+{
+    # Fill out your answer here
+    return
+}
+
+
+function part_h
+{
+    # Fill out your answer here
+for File in src/*.c
+	do
+	gcc -Wall -Werror ${File} 2>/dev/null
+	
+	if (( $? == 0 )) 
+	then
+		echo "${File}: success"
+	else
+		echo "${File}: failure"
+	fi
+
+	done
+    return
+}
+
+function part_i
+{
+    # Fill out your answer here
+    return
+}
+
+function part_j
+{
+    # Fill out your answer here
+    return
+}
+
+# To test your function, you can call it below like this:
+#
+#part_h

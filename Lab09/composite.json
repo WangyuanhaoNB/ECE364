@@ -1,0 +1,12 @@
+{
+    "mac" : "58:1C:0A:6E:39:4D",
+    "programName" : "Return of Jedi",
+    "speed" : 35.23,
+    "isActive" : false,
+    "options": [ "fixed", "complete" , "inTransit" , "active" ],
+    "balance" : -9999,
+    "brand" : "stuxnet",
+    "communityThread" : "11.22",
+    "passcode": "true",
+    "points" : [ "A", "B", "C", "3D", "-1Z"]
+}

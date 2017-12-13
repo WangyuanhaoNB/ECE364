@@ -1,0 +1,32 @@
+/home/ecegridfs/a/ee364ta/grading/Lab04/lab/ee364d27
+
+------------------------------------------------------------------------------------------
+FUNCTION                    | DESCRIPTION           | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------------
+getCircuitByStudent                                   Passed                     5/5     
+getCircuitByStudentPartial    Both Name               Passed                     1/1     
+getCircuitByStudentPartial    First Name              Passed                     2/2     
+getCircuitByStudentPartial    Last Name               Passed                     2/2     
+getCommonByProject            Test 1                  Passed                     3/3     
+getCommonByProject            Test 2                  Passed                     2/2     
+getCommonByStudent            Test 1                  Passed                     3/3     
+getCommonByStudent            Test 2                  Passed                     2/2     
+getComponentByStudent         Student Set 1 Test      Passed                     5/5     
+getComponentByStudent         Student Set 2 Test      Passed                     5/5     
+getComponentCountByProject    Missing Project Test    Passed                     2/2     
+getComponentCountByProject    Project 1 Test          Passed                     4/4     
+getComponentCountByProject    Project 2 Test          Passed                     4/4     
+getComponentCountByStudent    Student 1 Test          Passed                     3/3     
+getComponentCountByStudent    Student 2 Test          Passed                     2/2     
+getParticipationByProject     Project 1 Test          Passed                     3/3     
+getParticipationByProject     Project 2 Test          Passed                     2/2     
+getParticipationByStudent     Student 1 Test          Passed                     5/5     
+getParticipationByStudent     Student 2 Test          Passed                     5/5     
+getProjectByCircuit                                   Passed                     5/5     
+getProjectByComponent         Component Set 1 Test    Passed                     5/5     
+getProjectByComponent         Component Set 2 Test    Passed                     5/5     
+getStudentByComponent         Component Set 1 Test    Passed                     3/3     
+getStudentByComponent         Component Set 2 Test    Passed                     2/2     
+------------------------------------------------------------------------------------------
+
+Total Score = 80.0

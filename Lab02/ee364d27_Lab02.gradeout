@@ -1,0 +1,52 @@
+######################### lab assignment ######################### 
+---------------------------------------------------------
+process_logs.bash
+---------------------------------------------------------
+1. Print usage properly                            Passed (2/2 pts)
+2. Print error message correctly                   Passed (3/3 pts)
+3. Produce correct output, test #1                 Passed (5/5 pts)
+4. Produce correct output, test #2                 Passed (5/5 pts)
+5. Produce correct output, test #3                 Passed (5/5 pts)
+6. Produce correct output, test #4                 Passed (5/5 pts)
+7. Produce correct output, test #5                 Passed (5/5 pts)
+
+---------------------------------------------------------
+sort_logs.bash
+---------------------------------------------------------
+1. Print usage properly                            Passed (2/2 pts)
+2. Print error message correctly                   Passed (3/3 pts)
+3. Produce correct log file                        Passed (5/5 pts)
+4. Produce correct unsorted file                   Passed (10/10 pts)
+5. Produce correct sorted file                     Passed (10/10 pts)
+
+---------------------------------------------------------
+run.bash
+---------------------------------------------------------
+1. Print correct return code                       Passed (5/5 pts)
+2. Print err.out correctly                         Passed (5/5 pts)
+3. Print helloWorld.out correctly                  Passed (5/5 pts)
+4. Print sel_sort.out correctly                    Passed (5/5 pts)
+
+---------------------------------------------------------
+Total Score: 80/80
+######################### in-lab exercise ######################### 
+---------------------------------------------------------
+sorting_data.bash
+---------------------------------------------------------
+1. Print usage properly                            Passed (1/1 pts)
+2. Print error message correctly                   Passed (1/1 pts)
+3. Produce correct output, choice 1                Passed (2/2 pts)
+4. Produce correct output, choice 2                Passed (2/2 pts)
+5. Produce correct output, choice 3                Passed (2/2 pts)
+6. Produce correct output, choice 4                Passed (2/2 pts)
+7. Produce correct output, choice 5                Passed (2/2 pts)
+8. Produce correct output, choice 6                Passed (2/2 pts)
+9. Produce correct output, choice 10               Passed (1/1 pts)
+
+---------------------------------------------------------
+array.bash
+---------------------------------------------------------
+1. Print lines correctly                           Passed (5/5 pts)
+
+---------------------------------------------------------
+Total Score: 20/20

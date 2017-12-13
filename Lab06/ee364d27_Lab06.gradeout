@@ -1,0 +1,23 @@
+/home/ecegridfs/a/ee364ta/grading/Lab06/lab/ee364d27
+
+----------------------------------------------------------------------------
+FUNCTION                | DESCRIPTION | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------
+getCompleteEntries                  Passed                     10/10   
+getEmployeesWithIDs                 Passed                     10/10   
+getEmployeesWithPhones              Passed                     10/10   
+getEmployeesWithStates              Passed                     10/10   
+getEmployeesWithoutIDs              Passed                     5/5     
+getQueryParameters                  Passed                     5/5     
+getRejectedEntries                  Passed                     10/10   
+getSpecial                          Passed                     5/5     
+getUrlParts                         Passed                     5/5     
+isSplitUsed                         Passed                     0/0     
+regEx_getAddress          Bad 1     Passed                     2/2     
+regEx_getAddress          Bad 2     Passed                     2/2     
+regEx_getAddress          Good 1    Passed                     2/2     
+regEx_getAddress          Good 2    Passed                     2/2     
+regEx_getAddress          Good 3    Passed                     2/2     
+----------------------------------------------------------------------------
+
+Total Score = 80.0

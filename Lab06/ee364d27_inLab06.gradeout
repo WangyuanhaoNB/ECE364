@@ -1,0 +1,16 @@
+/home/ecegridfs/a/ee364ta/grading/Lab06/inlab/ee364d27
+
+---------------------------------------------------------------------------------
+FUNCTION             | DESCRIPTION         | COMMENTS                 | POINTS  
+---------------------------------------------------------------------------------
+captureNumbers         test combination 1    Passed                     3/3     
+captureNumbers         test combination 2    Passed                     3/3     
+captureNumbers         test floats           Passed                     2/2     
+captureNumbers         test scientific       Passed                     2/2     
+isSplitUsed                                  Passed                     0/0     
+regEx_getAttributes    XML 1                 Passed                     4/4     
+regEx_getAttributes    XML 2                 Passed                     3/3     
+regEx_getAttributes    XML 3                 Passed                     3/3     
+---------------------------------------------------------------------------------
+
+Total Score = 20.0

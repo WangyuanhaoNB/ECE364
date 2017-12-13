@@ -1,0 +1,5 @@
+Cherie,Fuhri,Continental Baking Co,3679 College Rd,Fairbanks,Fairbanks North Star,AK,99709,907-456-9072,907-456-8467,cherie@fuhri.com,http://www.cheriefuhri.com
+Willa,Dutt,Gutmann Leather Co Inc,2110 Peger Rd,Fairbanks,Fairbanks North Star,AK,99709,907-456-2885,907-456-2187,willa@dutt.com,http://www.willadutt.com
+Keisha,Ransonet,Hsk Decker,1049 Lakloey Dr,North Pole,Fairbanks North Star,AK,99705,907-488-6897,907-488-2093,keisha@ransonet.com,http://www.keisharansonet.com
+Amelia,Caputo,Security Marketing Agency,1800 Airport Way,Fairbanks,Fairbanks North Star,AK,99701,907-456-1748,907-456-7535,amelia@caputo.com,http://www.ameliacaputo.com
+Germaine,Bruski,Alloy Founders,2301 S Cushman St,Fairbanks,Fairbanks North Star,AK,99701,907-456-8225,907-456-9261,germaine@bruski.com,http://www.germainebruski.com

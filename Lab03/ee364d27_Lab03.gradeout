@@ -1,0 +1,30 @@
+/home/ecegridfs/a/ee364ta/grading/Lab03/lab/ee364d27
+
+----------------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION             | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------------
+convertToBoolean    Below-bound Input Test    Passed                     2/2     
+convertToBoolean    Non-Integer Input Test    Passed                     1/1     
+convertToBoolean    Normal Input Test         Passed                     2/2     
+convertToInteger    Empty List Test           Passed                     1/1     
+convertToInteger    Invalid List Test         Passed                     1/1     
+convertToInteger    Non-List Test             Passed                     1/1     
+convertToInteger    Normal Input Test         Passed                     2/2     
+find                Pattern (314X9X)          Passed                     10/10   
+find                Pattern (X5969XX)         Passed                     10/10   
+findNames           Find Both                 Passed                     2/2     
+findNames           Find First                Passed                     1/1     
+findNames           Find Last                 Passed                     1/1     
+findNames           Wrong Part                Passed                     1/1     
+getStreakProduct    Value (31415)             Passed                     5/5     
+getStreakProduct    Value (43200)             Passed                     5/5     
+getStreakProduct    Value (44100)             Passed                     5/5     
+getStreakProduct    Value (98304)             Passed                     5/5     
+getStreaks          Test 1                    Passed                     4/4     
+getStreaks          Test 2                    Passed                     3/3     
+getStreaks          Test 3                    Passed                     3/3     
+writePyramids       Pyramid (21, 7, '#')      Passed                     8/8     
+writePyramids       Pyramid (25, 11, 'O')     Passed                     7/7     
+----------------------------------------------------------------------------------
+
+Total Score = 80.0

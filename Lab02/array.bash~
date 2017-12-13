@@ -1,0 +1,34 @@
+#! /bin/bash
+
+# $Author$
+# $Date$
+
+function array 
+{
+    	# Fill out your answer here.
+    	Arr=(a.txt b.txt c.txt d.txt e.txt)
+	((sel=$RANDOM%5))
+	count=1
+	while read -r line 
+	do
+	if ((count == 7 || count == 8 || count == 9))
+	then
+
+		echo $line
+	fi
+	((count=count+1))
+	done < ${Arr[sel]}
+	
+
+    	return
+
+}
+
+
+#
+# To test your function, you can call it below like this:
+#
+#array
+#
+
+array

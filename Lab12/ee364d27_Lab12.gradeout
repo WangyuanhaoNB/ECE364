@@ -1,0 +1,34 @@
+/home/ecegridfs/a/ee364ta/grading/Lab12/lab/ee364d27
+
+---------------------------------------------------------------------------------
+FUNCTION              | DESCRIPTION        | COMMENTS                 | POINTS  
+---------------------------------------------------------------------------------
+AddEntry                New Entry            Passed                     2/2     
+AddEntry                Present Entry        Passed                     2/2     
+BadInitializer                               Passed                     2/2     
+GetAsADictionary                             Passed                     4/4     
+GetEntry                Non-Present Entry    Passed                     2/2     
+GetEntry                Present Entry        Passed                     2/2     
+Initializer             Bad Key              Passed                     2.5/2.5 
+Initializer             Bad Value            Passed                     2.5/2.5 
+RemoveEntry             Non-Present Entry    Passed                     2/2     
+RemoveEntry             Present Entry        Passed                     2/2     
+StringFunction                               Passed                     2/2     
+StringRepresentation                         Passed                     5/5     
+getBestInCourse         Sample Entry 1       Passed                     5/5     
+getBestInCourse         Sample Entry 2       Passed                     5/5     
+getClassInfo            Dictionary Count     Passed                     5/5     
+getClassInfo            Sample Entry 1       Passed                     5/5     
+getClassInfo            Sample Entry 2       Passed                     5/5     
+getClassInfo            Sample Entry 3       Passed                     5/5     
+getCourseAverage        Sample Entry 1       Passed                     5/5     
+getCourseAverage        Sample Entry 2       Passed                     5/5     
+getStudentGPA           Sample Entry 1       Passed                     5/5     
+getStudentGPA           Sample Entry 2       Passed                     5/5     
+getStudentInfo          Dictionary Count     Passed                     5/5     
+getStudentInfo          Sample Entry 1       Passed                     5/5     
+getStudentInfo          Sample Entry 2       Passed                     5/5     
+getStudentInfo          Sample Entry 3       Passed                     5/5     
+---------------------------------------------------------------------------------
+
+Total Score = 100.0

@@ -1,0 +1,15 @@
+#! /bin/bash
+
+Integer1=$1
+
+for (( I=$Integer1; I >= 0; I-- ))
+do
+if ${I} % 3 == 0
+then
+echo  ${I}
+fi
+done
+
+
+exit 0
+

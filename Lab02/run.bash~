@@ -1,0 +1,28 @@
+#! /bin/bash 
+
+#---------------------------------------
+# $Author$
+# $Date$
+#---------------------------------------
+
+# Do not modify above this line.
+
+
+for File in c-files/*.c
+do
+	string1=${File#"c-files/"}
+	string2=${string1%?}
+	echo -n "Compiling file $string1..."
+	gcc -Wall -Werror ${File} 2>/dev/null 
+	
+	if (( $? == 0 )) 
+	then
+		echo " Compilation succeeded."
+		echo "New Line" | $(./a.out) > ${string2}out
+	else
+		echo " Error: Compilation failed."
+	fi
+	
+done
+echo
+exit 0

@@ -1,0 +1,17 @@
+Course      Hr
+--------------
+ECE136      4
+ECE139      2
+ECE153      2
+ECE209      4
+ECE225      2
+ECE226      4
+ECE290      4
+ECE300      1
+ECE318      1
+ECE321      4
+ECE344      3
+ECE377      1
+ECE388      3
+ECE451      4
+ECE475      4

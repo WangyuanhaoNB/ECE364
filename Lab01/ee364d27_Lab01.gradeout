@@ -1,0 +1,47 @@
+######################### lab assignment ######################### 
+---------------------------------------------------------
+tiny_shell.bash
+---------------------------------------------------------
+ > tiny_shell.bash is not executable
+1. Print hello <username> correctly                Passed (8/8 pts)
+2. Print current directory correctly               Passed (8/8 pts)
+3. Compile all files correctly                     Passed (8/8 pts)
+4. Print error message properly                    Passed (8/8 pts)
+5. Quit the script properly                        Passed (8/8 pts)
+
+---------------------------------------------------------
+game_stats.bash
+--------------------------            Total students: 50
+Total hours spent in a day: 114
+Brian Holtz spent the highest amount of time in a day: 10
+Eddie Adams spent the least amount of time in a day: 1 == *suc*works.c* &&-------------------------------
+1. Exit if the number of argument is invalid       Passed (4/4 pts)
+2. Exit if file doesn't exist                      Passed (4/4 pts)
+3. Print total number of students, test #1         Passed (4/4 pts)
+4. Print hours spent, test #1                      Passed (4/4 pts)
+5. Print student who plays the most, test #1       Passed (4/4 pts)
+6. Print student who plays the least, test #1      Passed (4/4 pts)
+7. Print total number of students, test #2         Passed (4/4 pts)
+8. Print hours spent, test #2                      Passed (4/4 pts)
+9. Print student who plays the most, test #2       Passed (4/4 pts)
+10. Print student who plays the least, test #2     Passed (4/4 pts)
+
+---------------------------------------------------------
+Total Score: 80/80
+######################### in-lab exercise ######################### 
+---------------------------------------------------------
+check_permissions.bash
+---------------------------------------------------------
+1. Print usage properly                            Failed (0/1 pts)
+2. Print correct permission, test #1               Passed (2/2 pts)
+3. Print correct permission, test #2               Passed (2/2 pts)
+
+---------------------------------------------------------
+kaprekar.bash
+---------------------------------------------------------
+1. Print usage properly                            Passed (1/1 pts)
+2. Print correct numbers, test #1                  Passed (7/7 pts)
+3. Print correct numbers, test #2                  Passed (7/7 pts)
+
+---------------------------------------------------------
+Total Score: 19/20

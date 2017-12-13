@@ -1,0 +1,702 @@
+State         Abb.       Zip 
+-----------------------------
+Florida         FL      32257
+Florida         FL      33606
+Florida         FL      32686
+Florida         FL      33337
+Florida         FL      32716
+Florida         FL      33444
+Florida         FL      32830
+Florida         FL      34985
+Florida         FL      32909
+Florida         FL      33481
+Florida         FL      33135
+Florida         FL      32178
+Florida         FL      33904
+Florida         FL      32501
+Florida         FL      32210
+Florida         FL      34656
+Florida         FL      32820
+Florida         FL      33394
+Florida         FL      32924
+Florida         FL      32622
+Florida         FL      33257
+Florida         FL      33483
+Florida         FL      32579
+Florida         FL      33513
+Florida         FL      33804
+Florida         FL      33980
+Florida         FL      32175
+Florida         FL      33863
+Florida         FL      34446
+Florida         FL      32681
+Florida         FL      33525
+Florida         FL      33092
+Florida         FL      33151
+Florida         FL      33837
+Florida         FL      33446
+Florida         FL      33021
+Florida         FL      32692
+Florida         FL      34423
+Florida         FL      32333
+Florida         FL      33478
+Florida         FL      32911
+Florida         FL      33239
+Florida         FL      34139
+Florida         FL      32523
+Florida         FL      33402
+Florida         FL      32302
+Florida         FL      34786
+Florida         FL      33775
+Florida         FL      32202
+Florida         FL      33133
+Florida         FL      32079
+Florida         FL      34695
+Florida         FL      32052
+Florida         FL      33983
+Florida         FL      32321
+Florida         FL      33428
+Florida         FL      32902
+Florida         FL      34107
+Florida         FL      32766
+Florida         FL      33772
+Florida         FL      34233
+Florida         FL      32163
+Florida         FL      33948
+Florida         FL      32435
+Florida         FL      33073
+Florida         FL      33186
+Florida         FL      32887
+Florida         FL      33730
+Florida         FL      32808
+Florida         FL      32658
+Florida         FL      32621
+Florida         FL      32158
+Florida         FL      34788
+Florida         FL      33508
+Florida         FL      33619
+Florida         FL      33569
+Florida         FL      32723
+Florida         FL      33163
+Florida         FL      33322
+Florida         FL      33074
+Florida         FL      32136
+Florida         FL      33111
+Florida         FL      33705
+Florida         FL      32738
+Florida         FL      33932
+Florida         FL      32008
+Florida         FL      34655
+Florida         FL      33433
+Florida         FL      33405
+Florida         FL      34692
+Florida         FL      34491
+Florida         FL      33909
+Florida         FL      34743
+Florida         FL      32449
+Florida         FL      34613
+Florida         FL      33743
+Florida         FL      33609
+Florida         FL      33759
+Florida         FL      33076
+Florida         FL      34106
+Illinois        IL      60644
+Illinois        IL      62823
+Illinois        IL      60607
+Illinois        IL      62979
+Illinois        IL      60009
+Illinois        IL      62703
+Illinois        IL      62017
+Illinois        IL      61412
+Illinois        IL      62969
+Illinois        IL      62951
+Illinois        IL      60470
+Illinois        IL      60035
+Illinois        IL      61841
+Illinois        IL      60095
+Illinois        IL      62855
+Illinois        IL      62090
+Illinois        IL      60196
+Illinois        IL      61435
+Illinois        IL      62685
+Illinois        IL      61052
+Illinois        IL      60051
+Illinois        IL      60033
+Illinois        IL      61843
+Illinois        IL      62794
+Illinois        IL      60651
+Illinois        IL      60540
+Illinois        IL      62633
+Illinois        IL      61104
+Illinois        IL      60037
+Illinois        IL      60630
+Illinois        IL      60098
+Illinois        IL      61721
+Illinois        IL      61925
+Illinois        IL      60432
+Illinois        IL      61726
+Illinois        IL      61013
+Illinois        IL      60685
+Illinois        IL      61299
+Illinois        IL      60204
+Illinois        IL      61572
+Illinois        IL      60652
+Illinois        IL      62885
+Illinois        IL      60936
+Illinois        IL      60556
+Illinois        IL      62634
+Illinois        IL      62976
+Illinois        IL      61059
+Illinois        IL      62080
+Illinois        IL      62539
+Illinois        IL      60090
+Illinois        IL      61075
+Illinois        IL      61031
+Illinois        IL      62626
+Illinois        IL      60094
+Illinois        IL      61853
+Illinois        IL      60585
+Illinois        IL      62098
+Illinois        IL      61704
+Illinois        IL      61316
+Illinois        IL      61655
+Illinois        IL      61362
+Illinois        IL      60053
+Illinois        IL      60660
+Illinois        IL      62355
+Illinois        IL      61044
+Illinois        IL      62417
+Illinois        IL      61942
+Illinois        IL      62027
+Illinois        IL      62514
+Illinois        IL      62677
+Illinois        IL      61826
+Illinois        IL      61436
+Illinois        IL      61530
+Illinois        IL      60096
+Illinois        IL      62545
+Illinois        IL      62440
+Illinois        IL      61611
+Illinois        IL      62206
+Illinois        IL      61447
+Illinois        IL      62667
+Illinois        IL      62459
+Illinois        IL      61089
+Illinois        IL      62323
+Illinois        IL      61831
+Illinois        IL      62314
+Illinois        IL      60455
+Illinois        IL      60017
+Illinois        IL      60912
+Illinois        IL      61790
+Illinois        IL      61085
+Illinois        IL      60004
+Illinois        IL      61105
+Illinois        IL      62201
+Illinois        IL      60048
+Illinois        IL      62462
+Illinois        IL      60941
+Illinois        IL      62970
+Illinois        IL      60559
+Illinois        IL      60621
+Illinois        IL      60915
+Indiana         IN      47390
+Indiana         IN      46127
+Indiana         IN      46850
+Indiana         IN      47638
+Indiana         IN      47385
+Indiana         IN      47303
+Indiana         IN      46171
+Indiana         IN      47683
+Indiana         IN      47123
+Indiana         IN      46405
+Indiana         IN      47016
+Indiana         IN      46960
+Indiana         IN      46404
+Indiana         IN      46998
+Indiana         IN      46401
+Indiana         IN      47848
+Indiana         IN      47453
+Indiana         IN      47160
+Indiana         IN      46221
+Indiana         IN      46122
+Indiana         IN      47907
+Indiana         IN      47871
+Indiana         IN      46737
+Indiana         IN      47223
+Indiana         IN      46170
+Indiana         IN      47960
+Indiana         IN      47469
+Indiana         IN      46373
+Indiana         IN      46967
+Indiana         IN      46244
+Indiana         IN      47561
+Indiana         IN      46382
+Indiana         IN      47957
+Indiana         IN      46714
+Indiana         IN      46794
+Indiana         IN      46782
+Indiana         IN      46104
+Indiana         IN      46251
+Indiana         IN      47882
+Indiana         IN      47857
+Indiana         IN      46504
+Indiana         IN      46788
+Indiana         IN      46770
+Indiana         IN      46573
+Indiana         IN      47220
+Indiana         IN      47126
+Indiana         IN      46516
+Indiana         IN      46904
+Indiana         IN      46225
+Indiana         IN      46545
+Indiana         IN      47388
+Indiana         IN      46161
+Indiana         IN      47125
+Indiana         IN      47712
+Indiana         IN      46366
+Indiana         IN      46953
+Indiana         IN      47618
+Indiana         IN      47576
+Indiana         IN      47467
+Indiana         IN      46945
+Indiana         IN      46112
+Indiana         IN      46815
+Indiana         IN      46806
+Indiana         IN      47351
+Indiana         IN      46857
+Indiana         IN      46613
+Indiana         IN      47615
+Indiana         IN      47579
+Indiana         IN      46508
+Indiana         IN      46526
+Indiana         IN      46793
+Indiana         IN      47245
+Indiana         IN      46942
+Indiana         IN      47925
+Indiana         IN      46933
+Indiana         IN      46939
+Indiana         IN      46374
+Indiana         IN      46562
+Indiana         IN      47463
+Indiana         IN      47918
+Indiana         IN      47995
+Indiana         IN      46868
+Indiana         IN      46049
+Indiana         IN      46322
+Indiana         IN      46106
+Indiana         IN      46186
+Indiana         IN      47355
+Indiana         IN      46929
+Indiana         IN      47941
+Indiana         IN      46118
+Indiana         IN      47841
+Indiana         IN      47145
+Indiana         IN      47112
+Indiana         IN      46746
+Indiana         IN      47719
+Indiana         IN      46295
+Indiana         IN      47521
+Indiana         IN      46052
+Indiana         IN      46898
+Indiana         IN      47427
+Michigan        MI      48916
+Michigan        MI      48877
+Michigan        MI      49420
+Michigan        MI      48001
+Michigan        MI      49650
+Michigan        MI      49655
+Michigan        MI      48391
+Michigan        MI      48838
+Michigan        MI      48208
+Michigan        MI      48883
+Michigan        MI      48033
+Michigan        MI      48017
+Michigan        MI      48321
+Michigan        MI      49645
+Michigan        MI      48847
+Michigan        MI      48438
+Michigan        MI      49071
+Michigan        MI      49279
+Michigan        MI      48037
+Michigan        MI      49228
+Michigan        MI      49705
+Michigan        MI      48662
+Michigan        MI      49072
+Michigan        MI      49316
+Michigan        MI      48661
+Michigan        MI      48015
+Michigan        MI      48068
+Michigan        MI      48220
+Michigan        MI      48093
+Michigan        MI      48862
+Michigan        MI      49720
+Michigan        MI      49903
+Michigan        MI      49271
+Michigan        MI      49063
+Michigan        MI      49873
+Michigan        MI      49034
+Michigan        MI      49905
+Michigan        MI      49874
+Michigan        MI      49030
+Michigan        MI      49848
+Michigan        MI      48634
+Michigan        MI      49747
+Michigan        MI      48363
+Michigan        MI      49224
+Michigan        MI      48347
+Michigan        MI      49509
+Michigan        MI      49344
+Michigan        MI      48435
+Michigan        MI      48069
+Michigan        MI      49067
+Michigan        MI      48606
+Michigan        MI      49861
+Michigan        MI      48377
+Michigan        MI      49204
+Michigan        MI      49515
+Michigan        MI      49674
+Michigan        MI      48475
+Michigan        MI      48720
+Michigan        MI      49411
+Michigan        MI      48027
+Michigan        MI      49733
+Michigan        MI      49728
+Michigan        MI      48880
+Michigan        MI      48633
+Michigan        MI      49783
+Michigan        MI      48005
+Michigan        MI      49097
+Michigan        MI      48115
+Michigan        MI      49701
+Michigan        MI      49322
+Michigan        MI      49272
+Michigan        MI      48239
+Michigan        MI      48454
+Michigan        MI      48238
+Michigan        MI      48158
+Michigan        MI      49709
+Michigan        MI      49931
+Michigan        MI      48850
+Michigan        MI      48322
+Michigan        MI      49651
+Michigan        MI      49283
+Michigan        MI      49441
+Michigan        MI      48190
+Michigan        MI      48601
+Michigan        MI      48749
+Michigan        MI      48813
+Michigan        MI      49690
+Michigan        MI      48211
+Michigan        MI      48450
+Michigan        MI      49508
+Michigan        MI      49685
+Michigan        MI      48701
+Michigan        MI      48833
+Michigan        MI      49238
+Michigan        MI      48657
+Michigan        MI      49050
+Michigan        MI      48086
+Michigan        MI      49421
+Michigan        MI      49281
+Michigan        MI      49317
+New York        NY      12998
+New York        NY      12584
+New York        NY      11436
+New York        NY      11692
+New York        NY      13811
+New York        NY      12845
+New York        NY      12436
+New York        NY      14166
+New York        NY      10954
+New York        NY      10102
+New York        NY      10302
+New York        NY      14722
+New York        NY      12068
+New York        NY      13368
+New York        NY      13147
+New York        NY      11970
+New York        NY      12230
+New York        NY      13832
+New York        NY      13034
+New York        NY      14231
+New York        NY      13145
+New York        NY      11802
+New York        NY      12534
+New York        NY      11374
+New York        NY      11739
+New York        NY      14212
+New York        NY      14715
+New York        NY      12585
+New York        NY      12237
+New York        NY      13643
+New York        NY      11424
+New York        NY      13110
+New York        NY      12862
+New York        NY      12527
+New York        NY      11704
+New York        NY      12856
+New York        NY      13483
+New York        NY      14606
+New York        NY      10019
+New York        NY      14213
+New York        NY      13676
+New York        NY      12495
+New York        NY      11023
+New York        NY      11357
+New York        NY      13088
+New York        NY      14754
+New York        NY      13138
+New York        NY      10032
+New York        NY      12853
+New York        NY      13343
+New York        NY      14143
+New York        NY      14892
+New York        NY      13626
+New York        NY      12996
+New York        NY      12529
+New York        NY      10312
+New York        NY      13730
+New York        NY      10121
+New York        NY      13479
+New York        NY      11431
+New York        NY      14508
+New York        NY      10276
+New York        NY      13157
+New York        NY      11754
+New York        NY      11960
+New York        NY      11550
+New York        NY      12833
+New York        NY      11968
+New York        NY      11765
+New York        NY      10924
+New York        NY      12602
+New York        NY      10469
+New York        NY      12849
+New York        NY      14857
+New York        NY      10174
+New York        NY      10280
+New York        NY      12736
+New York        NY      13669
+New York        NY      14847
+New York        NY      14083
+New York        NY      13682
+New York        NY      13342
+New York        NY      10915
+New York        NY      14129
+New York        NY      12504
+New York        NY      11952
+New York        NY      12433
+New York        NY      12261
+New York        NY      12863
+New York        NY      13488
+New York        NY      13324
+New York        NY      13859
+New York        NY      12078
+New York        NY      14060
+New York        NY      11499
+New York        NY      12811
+New York        NY      12506
+New York        NY      14433
+New York        NY      10203
+New York        NY      14228
+Ohio            OH      45806
+Ohio            OH      45213
+Ohio            OH      43606
+Ohio            OH      45750
+Ohio            OH      43750
+Ohio            OH      44253
+Ohio            OH      45064
+Ohio            OH      45862
+Ohio            OH      45833
+Ohio            OH      44811
+Ohio            OH      44707
+Ohio            OH      44906
+Ohio            OH      44053
+Ohio            OH      45225
+Ohio            OH      44211
+Ohio            OH      43906
+Ohio            OH      44090
+Ohio            OH      45432
+Ohio            OH      45160
+Ohio            OH      44003
+Ohio            OH      44504
+Ohio            OH      45316
+Ohio            OH      43803
+Ohio            OH      45263
+Ohio            OH      45252
+Ohio            OH      44102
+Ohio            OH      45131
+Ohio            OH      44067
+Ohio            OH      45370
+Ohio            OH      44809
+Ohio            OH      43136
+Ohio            OH      43117
+Ohio            OH      43843
+Ohio            OH      43713
+Ohio            OH      44398
+Ohio            OH      43518
+Ohio            OH      44146
+Ohio            OH      45712
+Ohio            OH      43266
+Ohio            OH      45663
+Ohio            OH      45351
+Ohio            OH      45413
+Ohio            OH      43931
+Ohio            OH      43343
+Ohio            OH      43228
+Ohio            OH      45050
+Ohio            OH      45306
+Ohio            OH      45338
+Ohio            OH      43732
+Ohio            OH      44061
+Ohio            OH      44203
+Ohio            OH      44697
+Ohio            OH      45651
+Ohio            OH      44706
+Ohio            OH      44861
+Ohio            OH      43901
+Ohio            OH      45820
+Ohio            OH      44234
+Ohio            OH      45155
+Ohio            OH      45268
+Ohio            OH      43127
+Ohio            OH      45679
+Ohio            OH      45224
+Ohio            OH      45404
+Ohio            OH      45860
+Ohio            OH      43109
+Ohio            OH      45115
+Ohio            OH      45220
+Ohio            OH      45786
+Ohio            OH      44328
+Ohio            OH      43123
+Ohio            OH      44127
+Ohio            OH      45233
+Ohio            OH      45813
+Ohio            OH      45258
+Ohio            OH      45347
+Ohio            OH      45388
+Ohio            OH      44255
+Ohio            OH      43926
+Ohio            OH      45851
+Ohio            OH      45203
+Ohio            OH      43357
+Ohio            OH      43934
+Ohio            OH      44491
+Ohio            OH      45065
+Ohio            OH      45782
+Ohio            OH      45644
+Ohio            OH      45247
+Ohio            OH      44855
+Ohio            OH      43916
+Ohio            OH      43311
+Ohio            OH      44693
+Ohio            OH      43506
+Ohio            OH      45693
+Ohio            OH      45068
+Ohio            OH      44144
+Ohio            OH      44265
+Ohio            OH      44425
+Ohio            OH      43153
+Ohio            OH      43125
+Texas           TX      76825
+Texas           TX      76870
+Texas           TX      76246
+Texas           TX      77381
+Texas           TX      75266
+Texas           TX      77443
+Texas           TX      88566
+Texas           TX      76101
+Texas           TX      78007
+Texas           TX      75479
+Texas           TX      79096
+Texas           TX      76640
+Texas           TX      77496
+Texas           TX      78661
+Texas           TX      75853
+Texas           TX      78071
+Texas           TX      79772
+Texas           TX      77983
+Texas           TX      77222
+Texas           TX      76878
+Texas           TX      78230
+Texas           TX      76634
+Texas           TX      75631
+Texas           TX      79714
+Texas           TX      77090
+Texas           TX      77259
+Texas           TX      79908
+Texas           TX      78204
+Texas           TX      78014
+Texas           TX      77049
+Texas           TX      78040
+Texas           TX      79105
+Texas           TX      79529
+Texas           TX      79502
+Texas           TX      76513
+Texas           TX      79109
+Texas           TX      77209
+Texas           TX      78001
+Texas           TX      78152
+Texas           TX      78960
+Texas           TX      79229
+Texas           TX      88556
+Texas           TX      76205
+Texas           TX      79960
+Texas           TX      76534
+Texas           TX      77904
+Texas           TX      77870
+Texas           TX      75115
+Texas           TX      75201
+Texas           TX      76019
+Texas           TX      78570
+Texas           TX      76884
+Texas           TX      78834
+Texas           TX      79911
+Texas           TX      78931
+Texas           TX      76485
+Texas           TX      76949
+Texas           TX      77481
+Texas           TX      79830
+Texas           TX      77457
+Texas           TX      77483
+Texas           TX      75104
+Texas           TX      76869
+Texas           TX      75382
+Texas           TX      76401
+Texas           TX      79907
+Texas           TX      76097
+Texas           TX      79601
+Texas           TX      76459
+Texas           TX      75252
+Texas           TX      78594
+Texas           TX      76372
+Texas           TX      75762
+Texas           TX      79540
+Texas           TX      76623
+Texas           TX      75373
+Texas           TX      75080
+Texas           TX      78067
+Texas           TX      79343
+Texas           TX      77341
+Texas           TX      77473
+Texas           TX      75048
+Texas           TX      78059
+Texas           TX      76118
+Texas           TX      75063
+Texas           TX      88518
+Texas           TX      78860
+Texas           TX      88584
+Texas           TX      76380
+Texas           TX      77383
+Texas           TX      77630
+Texas           TX      79024
+Texas           TX      78416
+Texas           TX      78217
+Texas           TX      76558
+Texas           TX      78841
+Texas           TX      79185
+Texas           TX      75221
+Texas           TX      77413
+Texas           TX      79519

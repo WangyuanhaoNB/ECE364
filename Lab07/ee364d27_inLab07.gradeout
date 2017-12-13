@@ -1,0 +1,16 @@
+/home/ecegridfs/a/ee364ta/grading/Lab07/inlab/ee364d27
+
+-----------------------------------------------------------------------
+FUNCTION        | DESCRIPTION    | COMMENTS                 | POINTS  
+-----------------------------------------------------------------------
+initializer       invalid input    Passed                     1/1     
+initializer       valid input      Passed                     4/4     
+intersectsWith    false            Passed                     1/1     
+intersectsWith    true             Passed                     4/4     
+isPointInside     false            Passed                     1/1     
+isPointInside     true             Passed                     4/4     
+isSquare          false            Passed                     1/1     
+isSquare          true             Passed                     4/4     
+-----------------------------------------------------------------------
+
+Total Score = 20.0

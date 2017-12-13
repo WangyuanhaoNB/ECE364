@@ -1,0 +1,10 @@
+{
+  "firstName": "Aaron",
+  "lastName": "Manning",
+  "age": 25,
+  "isStudent": true,
+  "weight" : 153.5,
+  "isMarried": false,
+  "housing" : -2,
+  "other" : -3.41
+}

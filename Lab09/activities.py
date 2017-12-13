@@ -1,0 +1,48 @@
+from localBank import *
+
+def loadBankData(dataFileName):
+    bank = Bank()
+    with open(dataFileName,"r") as f:
+        next(f)
+        next(f)
+        next(f)
+        lines = f.readlines()
+        for line in lines:
+            x = line.split("|")
+            name = (x[0]).strip()
+            first, last = name.split()
+            first = first.strip()
+            last = last.strip()
+            id = (x[1]).strip()
+            amt = (x[2]).strip()
+
+
+            if id not in bank.accounts:
+                bank.createAccount(first,last,id)
+                if amt[0] == "(":
+                    amt = amt[2:]
+                    amt = amt[:-1]
+                    trans = Transaction("D",float(amt))
+                    bank.applyTransaction(id,trans)
+                else:
+                    amt = amt[2:]
+                    amt = amt[:-1]
+                    trans = Transaction("W",float(amt))
+                    bank.applyTransaction(id,trans)
+
+
+
+
+    return bank
+
+def getTotalBalanceByPerson(bank, person):
+    pass
+
+def getBalances(bank):
+    pass
+
+
+if __name__ == "__main__":
+    b=loadBankData("transactions.txt")
+    for keys,vals in b.accounts.items():
+        print("{}".format(str(vals)))

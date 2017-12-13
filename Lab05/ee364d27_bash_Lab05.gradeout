@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION                           | COMMENTS   | POINTS   
+----------------------------------------------------------------------------------
+part_a              Print 3th-5th line from the bottom      Passed        5/5
+part_b              Check if it is file or directory        Passed        5/5
+part_c              Print unique line                       Failed        0/5
+part_d              Check the number of words and lines     Failed        0/5
+part_e              Run ece364.py and save the result       Failed        0/5
+part_f              Sort and print the last 10 people       Passed        5/5
+part_g              Replace vowels with -                   Failed        0/5
+part_h              Compile files ending with *.c           Passed        5/5
+part_i              Print # of line that has PURDUE         Failed        0/5
+part_j              Print average ecegrid response time     Failed        0/5
+----------------------------------------------------------------------------------
+Total Score: 20/50

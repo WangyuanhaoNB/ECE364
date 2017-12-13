@@ -1,0 +1,19 @@
+/home/ecegridfs/a/ee364ta/grading/Lab05/lab/ee364d27
+
+----------------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION             | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------------
+getCountByState     State = 'Alberta'         Passed                     3/3     
+getCountByState     State = 'Michigan'        FAILED                     0/6     
+getCountByState     State = 'New York'        FAILED                     0/6     
+getFreeByName       Set 1                     Passed                     5/5     
+getFreeByName       Set 2                     Passed                     5/5     
+getFreeByRange      Range 1: 08/14 - 08/18    Passed                     4/4     
+getFreeByRange      Range 2: 08/18 - 08/22    Passed                     4/4     
+getFreeByRange      Range 3: 08/10 - 08/03    Passed                     2/2     
+getStateByCounty    County = 'Fulton'         FAILED                     0/6     
+getStateByCounty    County = 'Lake'           FAILED                     0/6     
+getStateByCounty    County = 'Scooby'         FAILED                     0/3     
+----------------------------------------------------------------------------------
+
+Total Score = 23.0

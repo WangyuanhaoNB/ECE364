@@ -1,0 +1,33 @@
+/home/ecegridfs/a/ee364ta/grading/Lab09/lab/ee364d27
+
+Withdrawl would make the account negative not valid!
+------------------------------------------------------------------------------------------
+FUNCTION                  | DESCRIPTION             | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------------
+Account                     Account String 1          Passed                     2/2     
+Account                     Account String 2          Passed                     2/2     
+Account                     Attribute Check           Passed                     3/3     
+Account_applyTransaction    Deposit Check             Passed                     2/2     
+Account_applyTransaction    Withdraw Check 1          Passed                     2/2     
+Account_applyTransaction    Withdraw Check 2          Passed                     2/2     
+Account_applyTransaction    Withdraw Check 3          Passed                     2/2     
+Bank                        Add Existing              Passed                     3/3     
+Bank                        Add New                   Passed                     3/3     
+Bank                        Transaction on Missing    Passed                     3/3     
+Bank                        Withdraw Check 1          Passed                     3/3     
+Bank                        Withdraw Check 2          Passed                     3/3     
+BankBalanceByPerson                                   Error running function     0/10    
+BankBalance_Bonus                                     Error running function     0/10    
+BankLoading                                           Error running function     0/10    
+Person                      Normal                    Passed                     3/3     
+Person                      Person String             Passed                     2/2     
+Transaction                 Normal                    Passed                     3/3     
+Transaction                 Wrong Value               Passed                     2/2     
+isSplitUsed                                           Passed                     0/0     
+parseComplex                                          Passed                     15/15   
+parseComposite                                        Passed                     15/15   
+parseLine                                             Passed                     5/5     
+parseSimple                                           FAILED                     0/5     
+------------------------------------------------------------------------------------------
+
+Total Score = 75.0

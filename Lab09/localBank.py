@@ -1,0 +1,95 @@
+
+class Transaction:
+    def __init__(self, transType, value):
+        if (transType != "W") and (transType != "D"):
+            raise ValueError("Transtype not W or D")
+        self.transType = transType
+        self.value = value
+
+
+
+class Person:
+    def __init__(self, firstName, lastName):
+        self.firstName = firstName
+        self.lastName = lastName
+
+
+    def __str__(self):
+        return self.firstName+" "+self.lastName
+
+
+class Account:
+    def __init__(self, accountID, owner, balance, minValue=1000.0):
+        self.accountID = accountID
+        self.owner = owner
+        self.balance = balance
+        self.minValue = minValue
+
+
+    def __str__(self):
+        if self.balance >= 0:
+            res = "$"+"{:.2f}".format(self.balance)
+        else:
+            x = str(self.balance)
+            y = x[1:]
+            z= float(y)
+            res = "($"+"{:.2f}".format(z)+")"
+        return self.accountID+", "+str(self.owner)+", Balance = "+res
+
+
+    def applyTransaction(self, transaction):
+        if (transaction.transType == "D"):
+            self.balance = round(transaction.value + self.balance,2)
+        else:
+            new_bal = self.balance - transaction.value
+            if new_bal >= 0:
+                self.balance = round(self.balance - transaction.value,2)
+                if (self.balance < self.minValue):
+                    self.balance = round(self.balance - 10.00,2)
+            else:
+                raise ValueError("Withdrawl would make the account negative not valid!")
+
+
+class Bank:
+    def __init__(self):
+        self.accounts = {}
+
+    def createAccount(self,firstName,lastName,accountID):
+        if accountID in self.accounts:
+            pass
+        else:
+            person = Person(firstName,lastName)
+            val = Account(accountID,person,500.00)
+
+            self.accounts[accountID] = val
+
+    def applyTransaction(self,accountID, transaction):
+        if accountID in self.accounts:
+            val2 = self.accounts[accountID]
+            try:
+                val2.applyTransaction(transaction)
+                self.accounts[accountID]= val2
+            except ValueError as e:
+                print(e)
+
+        else:
+            pass
+
+
+
+
+
+
+
+if __name__ == "__main__":
+    pass
+    x = Transaction("W",23.0)
+    z = Person("John","Smith")
+    print(z)
+    y = Account("XXXXX-XXXXX",z,-21985)
+    print(y)
+    bank = Bank()
+    bank.createAccount(z.firstName,z.lastName,y.accountID)
+    bank.applyTransaction(y.accountID,x)
+    for key,val in bank.accounts.items():
+        print(val)
