@@ -1,0 +1,40 @@
+/home/ecegridfs/a/ee364ta/grading/Lab11/lab/ee364d27
+
+------------------------------------------------------------------------------------------------
+FUNCTION                         | DESCRIPTION            | COMMENTS                 | POINTS  
+------------------------------------------------------------------------------------------------
+CarrierCheckingForPayload          No Payload               Passed                     1/1     
+CarrierCheckingForPayload          Payload Present          Passed                     1/1     
+CarrierCleaning                    Cleaning Once            Passed                     1/1     
+CarrierCleaning                    Cleaning Twice           Passed                     1/1     
+CarrierCleaning                    Random Clean             Passed                     1/1     
+CarrierEmbedding                   Color Image              Passed                     7/7     
+CarrierEmbedding                   Gray Image               Passed                     7/7     
+CarrierEmbedding                   Text                     Passed                     7/7     
+CarrierEmbeddingValidation         Incorrect Parameter      Passed                     1/1     
+CarrierEmbeddingValidation         Large Payload            Passed                     1/1     
+CarrierEmbeddingValidation         Payload Exists           Passed                     1/1     
+CarrierExtraction                  Color Image              Passed                     7/7     
+CarrierExtraction                  Gray Image               Passed                     7/7     
+CarrierExtraction                  Text                     Passed                     7/7     
+CarrierImmutability                After Cleaning           Passed                     1/1     
+CarrierImmutability                After Embedding          Passed                     1/1     
+CarrierImmutability                After Extraction         Passed                     1/1     
+CarrierInitializerAndValidation    Initializer Check        Passed                     1/1     
+CarrierInitializerAndValidation    Invalid Carrier Type     Passed                     1/1     
+PayloadBadInitializer              Bad Compression Level    Passed                     1/1     
+PayloadBadInitializer              Bad Data                 Passed                     1/1     
+PayloadBadInitializer              Bad JSON                 Passed                     1/1     
+PayloadBadInitializer              Missing Parameters       Passed                     1/1     
+PayloadWithContentInput            Color Image              Passed                     7/7     
+PayloadWithContentInput            Gray Image               Passed                     7/7     
+PayloadWithContentInput            Text File                Passed                     7/7     
+PayloadWithRawDataInput            Color Image              Passed                     7/7     
+PayloadWithRawDataInput            Gray Image               Passed                     7/7     
+PayloadWithRawDataInput            Text File                Passed                     7/7     
+checkLibraries                     imageio                  Passed                     0/0     
+checkLibraries                     numpy                    Passed                     0/0     
+checkLibraries                     scipy                    Passed                     0/0     
+------------------------------------------------------------------------------------------------
+
+Total Score = 101.0
